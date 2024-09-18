@@ -1,0 +1,17 @@
+Motor BTS7960:
+
+BTS7960 adalah modul driver motor DC yang kuat
+Dapat mengendalikan motor DC dengan arus tinggi (hingga 43A)
+Memiliki proteksi terhadap panas berlebih dan arus pendek
+Biasanya digunakan untuk robot besar atau kendaraan elektrik kecil
+Memiliki 6 pin utama: VCC, GND, RPWM, LPWM, R_EN, L_EN
+
+
+Fungsi pin:
+
+VCC: Sumber tegangan logika (biasanya 5V)
+GND: Ground
+RPWM: PWM input untuk arah putaran searah jarum jam
+LPWM: PWM input untuk arah putaran berlawanan jarum jam
+R_EN: Enable untuk arah searah jarum jam
+L_EN: Enable untuk arah berlawanan jarum jam
