@@ -122,3 +122,5 @@ void loop() {
 }
 
 ```
+
+$$\int\limits_a^b f(x)d x=\lim\limits_{n \to \infty}\displaystyle\sum_{i=1}^{n}f(x_i).\Delta x,\hspace{1.5mm} \Delta x=\frac{b-a}{n}$$
