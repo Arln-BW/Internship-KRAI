@@ -1,5 +1,5 @@
-Ini punya Rizkaaa
-Rangkuman BTS 7960
+# Ini punya Rizkaaa
+## Rangkuman BTS 7960
 BTS 7960 merupakan modul driver motor DC (arus listrik searah)
 BTS 7960 menggunakan IC H-Bridge, yaitu sirkuit terintegrasi yang digunakan untuk mengontrol arah dan kecepatan motor DC dengan memungkinkan aliran arus dalam kedua arah.
 BTS 7960 banyak digunakan untuk mengatur motor berdaya besar.
@@ -22,7 +22,9 @@ Adanya proteksi
 Pengaplikasian BTS 7960:
 Kendaraan robotik, sistem otomatisasi industri, alat transportasi listrik
 
-Listing program supaya BTS7960 memutar kekana  lalu kekiri
+## Listing program supaya BTS7960 memutar kekana  lalu kekiri
+
+```cpp
 // Deklarasi pin
 const int R_EN = 8;  // Enable arah kanan
 const int L_EN = 7;  // Enable arah kiri
@@ -63,6 +65,7 @@ void loop() {
   analogWrite(LPWM, 0);
   delay(1000);              
 }
+```
 
 aku juga buat simulasi arduinonya pake tinkercad, cuma bukan pake komponen BTS 7960 soalnya komponennya gaada 
 aku pake komponen pengganti L293D
