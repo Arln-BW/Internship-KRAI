@@ -1,7 +1,7 @@
 Roda omni adalah jenis roda yang dirancang untuk memberikan mobilitas/cara kerja yang lebih besar pada kendaraan atau robot. 
 Roda omni memiliki rol kecil pada rodanya yang terpasang pada bagian samping roda utama, yang menjadikan roda bergerak kesamping tanpa harus memutar roda, yang membuat roda omni bergerak secara fleksibel.
 
----
+
 const int motorAForward = 5;  
 const int motorABackward = 6; 
 const int motorBForward = 9;  
@@ -79,5 +79,5 @@ void stopMotors() {
   digitalWrite(motorDForward, LOW);
   digitalWrite(motorDBackward, LOW);
 }
----
+
 
