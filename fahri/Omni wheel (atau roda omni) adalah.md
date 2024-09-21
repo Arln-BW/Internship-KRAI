@@ -40,12 +40,12 @@ void setup() {
 // Fungsi untuk menggerakkan motor
 void moveForward() {
   // Motor bergerak maju
-  digitalWrite(motorFrontLeft1, HIGH);
-  digitalWrite(motorFrontLeft2, LOW);
+  digitalWrite(motorFrontLeft1, low);
+  digitalWrite(motorFrontLeft2, high);
   digitalWrite(motorFrontRight1, HIGH);
   digitalWrite(motorFrontRight2, LOW);
-  digitalWrite(motorBackLeft1, HIGH);
-  digitalWrite(motorBackLeft2, LOW);
+  digitalWrite(motorBackLeft1, low);
+  digitalWrite(motorBackLeft2, high);
   digitalWrite(motorBackRight1, HIGH);
   digitalWrite(motorBackRight2, LOW);
 }
