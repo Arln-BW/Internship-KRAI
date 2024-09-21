@@ -1,7 +1,6 @@
 ## Program Omni-Wheel Move Right
 
-```
-'''cpp
+```cpp
 
 // deklarasi pin PWM
 
@@ -123,5 +122,4 @@ void stop() {
 
 }
 
-'''
 ```
