@@ -1,4 +1,5 @@
 ```cpp
+
 //Deklarasi pin motor untuk driver BTS 79760
 int PWM_fr  = 5; // kanan depan
 int PWM_rr  = 9; // kanan belakang
@@ -36,8 +37,6 @@ void loop() {
 // untuk_rl
   analogWrite(PWM_rl, 50);
   digitalWrite(Pin_selektor_rl, HIGH);
-
-
 delay(5000);
 
 // untuk berhenti
