@@ -44,7 +44,7 @@ Omni wheel adalah teknologi yang sangat menarik dan memiliki potensi besar untuk
 ## Kode Pemrograman
 C++
 
-```
+```cpp
 #include <Arduino.h>
 
 // Pin untuk motor
