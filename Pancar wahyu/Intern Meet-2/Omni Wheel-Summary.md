@@ -88,7 +88,7 @@ void loop() {
 }
 
 ```
-```
+```cpp
 const int motorAForward = 5;  
 const int motorABackward = 6; 
 const int motorBForward = 9;  
