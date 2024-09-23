@@ -1,4 +1,4 @@
-OOP adalah pemrograman yang berorientasi objek, nahh ini itu menggunakan konsep objek untuk merancang perangkat lunak. Pemrograman menggunakan OOP katanya lebih terorganisir, jadi dia lebih mudah dikelola dan diperbaiki. Terus pengguna bisa interaksi dengan objek tanpa tahu detail implementasinya, ((mungkin krna ada yg dibagian private??)),, gtaw kurang tau. Fyi ini githubnya aku asal upload lagi hehe, maff yeahhhkk
+OOP adalah pemrograman yang berorientasi objek, nahh ini itu menggunakan konsep objek untuk merancang perangkat lunak (kalo dicodingannya aku ini objeknya yg Rizka). Pemrograman menggunakan OOP katanya lebih terorganisir, jadi dia lebih mudah dikelola dan diperbaiki. Terus pengguna bisa interaksi dengan objek tanpa tahu detail implementasinya, ((mungkin krna ada yg dibagian private??)),, gtaw kurang tau. Fyi ini githubnya aku asal upload lagi hehe, maff yeahhhkk ak belum bisa git push origin sksks padahal udh nyoba nnton yt tapi tetep bingung...
 
 ```
 class Rizka {
